@@ -1,2 +1,2 @@
 # terrainplanet
-Initiating a development of open source terrain engine for godot.
+Initiating a development of open source terrain engine for godot with assets.
